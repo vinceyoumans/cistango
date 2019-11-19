@@ -31,6 +31,7 @@ part of the test fails intentionally
 
 ### Write a go code to create a struct type with 3 fields date, time and zone and print the values in a json format.
 
+#### ass20
 In this assignment I was not sure if objective was to show Structures or Understanding of Time package. If Doing Structs, then I thought the concept of a slice of structs was also important.  Thus, in Ass20 I went off range a bit to demonstrate everything.
 
 1. struct
