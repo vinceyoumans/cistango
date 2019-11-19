@@ -37,3 +37,7 @@ In this assignment I was not sure if objective was to show Structures or Underst
 2. Slice
 3. time package
 
+###  TODO
+1. I will be adding some Docker and Docker-Compose examples to the above.
+2. Add Unit testing
+
