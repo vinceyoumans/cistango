@@ -1,0 +1,25 @@
+[
+    {
+        "basket": {
+            "account": "AAbbCC001122",
+            "ST01_Metrics": {
+                "submittion_ts": 348994589,
+                "Account_id": "ajsjkkjakjs"
+            },
+            "items": [
+                {
+                    "tag": "this is unencrypted tag data for reference AAA",
+                    "obj": "829592cb74dceaed000db9544bfb32bd"
+                },
+                {
+                    "tag": "this is unencrypted tag data for reference BBB",
+                    "obj": "1fac51a68d13d50084a5140c9558885fbdaf22f3"
+                },
+                {
+                    "tag": "this is unencrypted tag data for reference CCC",
+                    "obj": "e1f32af986759c7f6b4f34b62364d44ae87e5421"
+                }
+            ]
+        }
+    }
+]
